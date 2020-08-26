@@ -16,3 +16,8 @@
 2.  修改第12行中executable_path="",将里面的内容修改为ChromDriver在你自己电脑上的路径
 3.  打开控制台，cd到ChooseCourse.py的目录，输入 python ChooseCourse.py 
 4.  观察控制台，做出相应回应即可
+
+
+#### TODO
+
+目前只能抢选修课。抢体育课的功能还没实现
